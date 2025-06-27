@@ -8,7 +8,7 @@ Cosmetic Insights is a data visualization project that analyzes cosmetic product
 
 ## 📊 Tableau Dashboards and Story
 
-- **Tableau Public Link**: [Click to view on Google Drive](https://share.google.com/file/d/FW8eJZB6SOh6z2tTF)
+- **Tableau Public Link**: [Click to view on Google Drive]( https://share.google/FW8eJZB6SOh6z2tTF )
 
 - **Dashboard 1**: [View Dashboard 1](https://public.tableau.com/views/DashBoards_17509048600790/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
